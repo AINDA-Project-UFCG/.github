@@ -1,21 +1,33 @@
 ## AINDA PROJECT UFCG
 
-AINDA is a community of computer science and linguistics research with the goal of producing datasets that can be used in many NLP tasks within AI. The focus is on spoken and unstructured debates (for example, class discussions, university panels, or discussing a viewpoint with friends).
+AINDA (in Portuguese, "Análise Inteligente de Debates") is a research community in computer science and linguistics focused on producing datasets for various NLP tasks in AI. The project primarily deals with individual, spoken and semi-structured debates, such as classroom discussions, university panels, and informal discussions.
 
 ---
 
 ## Datasets
 
-Here you will find a range of data. These datasets are the fruits of research promoted by undergraduate and master's degree students. Below are the available datasets:
+We call this corpus DEBISS (Debate Individual, Spontaneous, and Semi-Structured). From DEBISS, we have created many corpus that can be used for several NLP tasks.
 
-### Transcription
-Here you will find audio and transcriptions for small audio chunks. These can be used for training and evaluating audio-to-text models and voiceprint models.
+Here, you will find a range of datasets resulting from research conducted by undergraduate and master's students of UFCG. Below are the available datasets:
 
-### Argument
-Here we have data with detailed information about the argument structure in the debate transcriptions. This can be used for several Argument Mining tasks.
+### DEBISS - Transcription
+Contains audio and transcriptions of small audio chunks. These can be used for training and evaluating audio-to-text models, voiceprint models, and diarization models.
 
-### Debater Quality
-This dataset contains information about the quality of the debater during the debating process, including argumentative skill, adherence to the subject, response quality, and much more.
+### DEBISS-Arg - Argument Mining
+Includes data with detailed information about argument structures in debate transcriptions. Useful for various Argument Mining tasks.
 
-### Disfluency
-Here you will find data labeled for speech disfluency, which is very common in audio transcriptions.
+### DEBISS-Quali - Debater Quality
+Contains information about the quality of the debater during the debating process, including argumentative skill, adherence to the subject, response quality, and more.
+
+### DEBISS-Disf - Disfluency
+Provides data labeled for speech disfluencies, which are common in audio transcriptions. This includes annotations for phenomena such as stuttering, repetition, and other disfluencies.
+
+---
+
+## Our Published Research
+
+- **Disfluency Detection and Removal in Speech Transcriptions via Large Language Models**  
+  [Paper](https://sol.sbc.org.br/index.php/stil/article/view/31135)
+
+
+#computação #ufcg #corpus #argumentmining #debates
