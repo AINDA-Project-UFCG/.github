@@ -6,7 +6,7 @@ AINDA (in Portuguese, "Análise Inteligente de Debates") is a research community
 
 ## Datasets
 
-We call this corpus DEBISS (Debate Individual, Spontaneous, and Semi-Structured). From DEBISS, we have created many corpus that can be used for several NLP tasks.
+We call this corpus DEBISS (Debate Individual, Spoken, and Semi-Structured). From DEBISS, we have created many corpus that can be used for several NLP tasks.
 
 Here, you will find a range of datasets resulting from research conducted by undergraduate and master's students of UFCG. Below are the available datasets:
 
