@@ -63,11 +63,10 @@ Useful for training disfluency detection and normalization systems.
 
 - **Disfluency Detection and Removal in Speech Transcriptions via Large Language Models**  
   STIL 2024 - https://sol.sbc.org.br/index.php/stil/article/view/31135
-  
 
 - **DEBISS-Arg: An In-Depth Data Annotation Protocol and Corpus for Argument Mining in Semi-Structured Debates**  
-  https://sol.sbc.org.br/index.php/stil/article/view/37836  
-  🏆 *Best Paper Award — STIL 2025*
+  STIL 2025 - https://sol.sbc.org.br/index.php/stil/article/view/37836  
+  🏆 *Best Paper Award*
 
 - **DEBISS: a Corpus of Individual, Semi-structured and Spoken Debates**  
   STIL 2025 - https://sol.sbc.org.br/index.php/stil/article/view/37860
@@ -82,7 +81,7 @@ Useful for training disfluency detection and normalization systems.
   _Master’s thesis — available at the UFCG library._
 
 - **A Comprehensive Survey of Argument Mining in the Educational Domain: Techniques, Applications, and Future Directions**
-_WIREs Data Mining and Knowledge Discovery - https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.70041
+  WIREs Data Mining and Knowledge Discovery - https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.70041
 
 ---
 
