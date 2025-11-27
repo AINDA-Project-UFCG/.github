@@ -150,9 +150,9 @@ abstract = {ABSTRACT The application of argument mining (AM) in the educational 
 year = {2025}
 }
 
+```
 
-
-## 👥 Equipe e Participantes do Projeto
+## Team
 
 - **David Pereira** — Doctoral Degree Student in Computer Science  
 - **Klayert Souza** — Master’s Student in Computer Science  
