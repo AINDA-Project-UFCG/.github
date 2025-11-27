@@ -152,6 +152,15 @@ year = {2025}
 
 
 
+## 👥 Equipe e Participantes do Projeto
 
+- **David Pereira** — Doctoral Degree Student in Computer Science  
+- **Klayert Souza** — Master’s Student in Computer Science  
+- **Pedro Lima** — Bachelor in Computer Science  
+- **Cláudio Campelo** — Professor at UFCG  
+- **Helen Cavalcanti** — Master’s Student in Computer Science  
+- **Daniela Thuaslar** — Linguist  
+- **Maria Júlia Porto** — Linguist  
+- **Larissa Vasconcelos** — Professor at IFPB
 
 
