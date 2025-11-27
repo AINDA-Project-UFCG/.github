@@ -81,6 +81,9 @@ Useful for training disfluency detection and normalization systems.
 - **Comparative Analysis of Performance in Academic Debates: Insights from Human Evaluations and Language Models**  
   _Master’s thesis — available at the UFCG library._
 
+- **A Comprehensive Survey of Argument Mining in the Educational Domain: Techniques, Applications, and Future Directions**
+WIREs Data Mining and Knowledge Discovery - https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.70041
+
 ---
 
 ## 📌 How to Cite
@@ -130,6 +133,24 @@ Useful for training disfluency detection and normalization systems.
  doi = {10.5753/stil.2024.245417},
  url = {https://sol.sbc.org.br/index.php/stil/article/view/31135}
 }
+
+@article{https://doi.org/10.1002/widm.70041,
+author = {Pereira, David Eduardo and Gomes, Daniela Thuaslar Simão and Vasconcelos, Larissa Lucena and Campelo, Claudio Elizio Calazans},
+title = {A Comprehensive Survey of Argument Mining in the Educational Domain: Techniques, Applications, and Future Directions},
+journal = {WIREs Data Mining and Knowledge Discovery},
+volume = {15},
+number = {3},
+pages = {e70041},
+keywords = {argument, education, mining, NLP},
+doi = {https://doi.org/10.1002/widm.70041},
+url = {https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.70041},
+eprint = {https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/widm.70041},
+note = {e70041 DMKD-00719.R4},
+abstract = {ABSTRACT The application of argument mining (AM) in the educational domain is a tool for identifying text structures that express an argument. AM can help evaluate the quality of students' assignments, generate insights into their perspectives, and understand their stance on certain topics. This article examines various aspects of AM in education, including techniques, models, approaches, data representation, language resources, and target artifacts. The findings suggest that AM can enhance learning and teaching processes. However, the study highlights gaps in the literature, particularly in exploring educational artifacts like debates and a lack of research on AM in languages other than English. This paper calls for further research to improve educational outcomes through AM in the educational domain. This article is categorized under: Application Areas > Education and Learning Technologies > Artificial Intelligence Technologies > Machine Learning},
+year = {2025}
+}
+
+
 
 
 
