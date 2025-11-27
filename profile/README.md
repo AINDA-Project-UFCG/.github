@@ -88,7 +88,7 @@ Useful for training disfluency detection and normalization systems.
 ## 📌 How to Cite
 
 ```bibtex
-@inproceedings{stil,
+@inproceedings{debiss-arg-stil,
  author = {David Pereira and Daniela Simão and Claudio Campelo},
  title = { DEBISS-Arg: An In Depth Data Annotation Protocol and Corpus for Argument Mining in Semi Structured Debates},
  booktitle = {Anais do XVI Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana},
@@ -103,7 +103,7 @@ Useful for training disfluency detection and normalization systems.
  url = {https://sol.sbc.org.br/index.php/stil/article/view/37836}
 }
 
-@inproceedings{stil,
+@inproceedings{debiss-stil,
  author = {Klaywert Souza and David Pereira and Cláudio Campelo and Larissa Vasconcelos},
  title = { DEBISS: a Corpus of Individual, Semi-structured and Spoken Debates},
  booktitle = {Anais do XVI Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana},
@@ -118,7 +118,7 @@ Useful for training disfluency detection and normalization systems.
  url = {https://sol.sbc.org.br/index.php/stil/article/view/37860}
 }
 
-@inproceedings{stil,
+@inproceedings{disfluecy-stil,
  author = {Pedro L. de Lima and Cláudio E. Campelo},
  title = { Disfluency Detection and Removal in Speech Transcriptions via Large Language Models},
  booktitle = {Anais do XV Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana},
