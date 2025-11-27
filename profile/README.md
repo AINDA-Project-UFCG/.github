@@ -13,7 +13,7 @@ From DEBISS we derived specialized datasets tailored to specific NLP tasks.
 
 ---
 
-### 🗣️ DEBISS (Core Corpus)
+#### 🗣️ DEBISS (Core Corpus)
 
 DEBISS contains **audio recordings** and **transcriptions** of short segments of recorded debates.  
 It can be used for:
@@ -24,7 +24,7 @@ It can be used for:
 
 ---
 
-### 💬 DEBISS-Arg — Argument Mining
+#### 💬 DEBISS-Arg — Argument Mining
 
 A corpus containing detailed annotations of **argument structures** in debate transcriptions.  
 Suitable for tasks such as:
@@ -36,7 +36,7 @@ Suitable for tasks such as:
 
 ---
 
-### 🎓 DEBISS-Eval — Debaters Evaluation
+#### 🎓 DEBISS-Eval — Debaters Evaluation
 
 Dataset with **human evaluations** of debater performance, including:  
 - Argumentative skills  
@@ -47,7 +47,7 @@ Dataset with **human evaluations** of debater performance, including:
 
 ---
 
-### 🔁 DEBISS-Disfluency — Speech Disfluencies
+#### 🔁 DEBISS-Disfluency — Speech Disfluencies
 
 Contains annotations for **common speech disfluencies**, such as:  
 - Repetitions  
