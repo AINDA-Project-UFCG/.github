@@ -1,6 +1,6 @@
 # AINDA Project — UFCG
 
-**AINDA** (Portuguese: *Análise Inteligente de Debates*) is a research community at the Federal University of Campina Grande (UFCG) working at the intersection of **Computer Science** and **Linguistics**.  
+**AINDA** (Portuguese: *Análise Inteligente de Debates*) is a research community at the Federal University of Campina Grande (UFCG) working at the intersection of **Computer Science** and **Linguistics** in the context of debates.  
 We develop corpora and linguistic resources for several **Natural Language Processing (NLP)** tasks in the context of **spoken, individual, and semi-structured debates**, such as classroom discussions, university panels, and academic informal conversations.
 
 ---
