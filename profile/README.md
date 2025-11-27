@@ -101,7 +101,6 @@ Useful for training disfluency detection and normalization systems.
  url = {https://sol.sbc.org.br/index.php/stil/article/view/37836}
 }
 
-```bibtex
 @inproceedings{stil,
  author = {Klaywert Souza and David Pereira and Cláudio Campelo and Larissa Vasconcelos},
  title = { DEBISS: a Corpus of Individual, Semi-structured and Spoken Debates},
@@ -117,7 +116,6 @@ Useful for training disfluency detection and normalization systems.
  url = {https://sol.sbc.org.br/index.php/stil/article/view/37860}
 }
 
-```bibtex
 @inproceedings{stil,
  author = {Pedro L. de Lima and Cláudio E. Campelo},
  title = { Disfluency Detection and Removal in Speech Transcriptions via Large Language Models},
