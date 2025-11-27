@@ -155,7 +155,7 @@ year = {2025}
 ## Team
 
 - **David Pereira** — Doctoral Degree Student in Computer Science  
-- **Klayert Souza** — Master’s Student in Computer Science  
+- **Klayert Souza** — Master’s in Computer Science  
 - **Pedro Lima** — Bachelor in Computer Science  
 - **Cláudio Campelo** — Professor at UFCG  
 - **Helen Cavalcanti** — Master’s Student in Computer Science  
