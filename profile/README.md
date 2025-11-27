@@ -80,7 +80,7 @@ Useful for training disfluency detection and normalization systems.
 - **Comparative Analysis of Performance in Academic Debates: Insights from Human Evaluations and Language Models**  
   _Master’s thesis — available at the UFCG library._
 
-- **A Comprehensive Survey of Argument Mining in the Educational Domain: Techniques, Applications, and Future Directions**
+- **A Comprehensive Survey of Argument Mining in the Educational Domain: Techniques, Applications, and Future Directions**  
   WIREs Data Mining and Knowledge Discovery - https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.70041
 
 ---
