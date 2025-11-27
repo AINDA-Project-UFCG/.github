@@ -20,7 +20,8 @@ It can be used for:
 
 - Audio-to-text (ASR) experiments  
 - Voiceprint and speaker modeling  
-- Speaker diarization  
+- Speaker diarization
+🔗 Repository: https://github.com/AINDA-Project-UFCG/DEBISS
 
 ---
 
